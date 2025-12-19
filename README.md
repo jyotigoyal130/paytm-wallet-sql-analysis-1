@@ -189,5 +189,5 @@ FROM wallet_transactions;
 
 
 
-👉 Just tell me 👍
+
 
